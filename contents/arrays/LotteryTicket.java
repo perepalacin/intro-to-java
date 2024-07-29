@@ -8,10 +8,10 @@ public class LotteryTicket {
     private static final int LENGTH = 6; //This is basically a constant, it is set to final and is static!
     private static final int MAX_TICKET_NUMBER = 69;
 
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         int[] ticket = generateNumbers();
 
-        System.out.println(ticket.toString());
+        printTicket(ticket);
     }
 
     public static int[] generateNumbers() {
@@ -37,10 +37,12 @@ public class LotteryTicket {
         return false;
     }
 
-    // @Override
-    // public String toString() {
-    //     return Arrays.toString();
-    // }
+    public static void printTicket(int[] array) {
+        Arrays.sort(array);
+        for (int value: array) {
+            System.out.println(value + " ");
+        }
+    }
 
 
 }
