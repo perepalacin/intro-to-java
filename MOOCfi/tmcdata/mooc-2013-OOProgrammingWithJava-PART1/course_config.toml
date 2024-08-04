@@ -1,0 +1,85 @@
+course = "mooc-2013-OOProgrammingWithJava-PART1"
+
+[exercises."week1-000.Sandbox"]
+id = 40325
+checksum = "17cad9f923608a6152db7b7d4cebfa8d"
+
+[exercises."week1-001.Name"]
+id = 40326
+checksum = "1fdac4cb41b210b800d1aa838ec3a30c"
+
+[exercises."week1-002.HelloWorld"]
+id = 40327
+checksum = "9a9ca8f9bd59ad5cab24f97a27a9a749"
+
+[exercises."week1-003.Spruce"]
+id = 40328
+checksum = "8411f8e4a1f7b64eacb6bb914e637aad"
+
+[exercises."week1-004.ChangingVariables"]
+id = 40329
+checksum = "0ce003d05483e467ed77f70ebd59f8ad"
+
+[exercises."week1-005.SecondsOfTheYear"]
+id = 40330
+checksum = "e9d889059e5e440897fb917b0ae97c09"
+
+[exercises."week1-006.Addition"]
+id = 40331
+checksum = "43664217906e20c0a5c2998bbeca4092"
+
+[exercises."week1-007.Multiplication"]
+id = 40332
+checksum = "cfe1ad03ed1820ef23b44780981a4cbb"
+
+[exercises."week1-008.Adder"]
+id = 40333
+checksum = "c2d122c561c49c28b498f6935dfcaf3f"
+
+[exercises."week1-009.Divider"]
+id = 40334
+checksum = "aa6812dffccd1b345e51e427e7f33da9"
+
+[exercises."week1-010.CircleCircumference"]
+id = 40335
+checksum = "1fdcd6ac2aba32f89556c057680507aa"
+
+[exercises."week1-011.BiggerNumber"]
+id = 40336
+checksum = "6c484135f525d7f1b195b8a44d2ba6c6"
+
+[exercises."week1-012.SumOfTheAges"]
+id = 40337
+checksum = "0be1b8066def89b4d8323474ad0d178b"
+
+[exercises."week1-013.NhlStatisticsPart1"]
+id = 40338
+checksum = "33eace142f3723919864e3e583c46c92"
+
+[exercises."week1-014.PositiveValue"]
+id = 40339
+checksum = "986a6ed8a92b22522d1a0af7d78cbd7f"
+
+[exercises."week1-015.AgeOfMajority"]
+id = 40340
+checksum = "d5b988457741c738c101d5a5cdd9dac9"
+
+[exercises."week1-019.AgeCheck"]
+id = 40344
+checksum = "e638b56b01e6bc6b8687d8747a89fb5a"
+
+[exercises."week1-020.Usernames"]
+id = 40345
+checksum = "b7d8c60488883527e604a413af53f4f1"
+
+[exercises."week1-021.LeapYear"]
+id = 40346
+checksum = "2a5a916cc80906fdec4077e03a39d89f"
+
+[exercises."week1-022.Password"]
+id = 40347
+checksum = "5cb033aa57ce392b02e3d72d0c99f042"
+
+[exercises."week1-024.NhlStatisticsPart2"]
+id = 40349
+checksum = "c2d4217f7af71c1a3f2ff328745c8f19"
